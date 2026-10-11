@@ -1,2 +1,2 @@
 # Python-Lab3-ConditionalStatements
-Birtday finder
+The problem says us use 5 yes no question and we have 31 probability. We can find the soution with 5 yes no question because 2^5 is bigger than 31. When we start to divide the numbers into 2 groups and ask the user 'Which group is number in?' and delete the other group. After with new numbers repeat this proses 4 more time and the 5th time we get ony 1 number and this is the users birthday.
